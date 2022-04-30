@@ -1,9 +1,9 @@
-# Fabric Example Mod
+# UltimNotFound
 
-## Setup
+## ?
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+This fabric mod is a workaround for [UltimMC#186](https://github.com/AfoninZ/UltimMC/issues/186).
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This mod is available under the CC0 license.

@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
-  "version": "${version}",
+  "id": "ultimnotfound",
+  "version": "0.0.1",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "UltimNotFound",
+  "description": "Workaround a crash on world load in >=22w17a. May break authentication if used outside UltimMC.",
   "authors": [
-    "Me!"
+    "hapaxant"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "sources": "https://github.com/hapaxant/ultimnotfound",
+    "issues": "https://github.com/hapaxant/ultimnotfound/issues"
   },
 
   "license": "CC0-1.0",
@@ -27,12 +27,10 @@
   ],
 
   "depends": {
-    "fabricloader": ">=0.13.3",
-    "fabric": "*",
-    "minecraft": "~1.18.2",
+    "fabricloader": ">=0.14.3",
+    "minecraft": ">=1.19-alpha.22.17.a",
     "java": ">=17"
   },
   "suggests": {
-    "another-mod": "*"
   }
 }
